@@ -21,7 +21,7 @@
     "mysql": "^2.17.1",
     "reflect-metadata": "^0.1.13",
     "typeorm": "^0.2.19",
-    "validator": "^10.11.0",
+    "validator": "^13.7.0",
     "vue": "^2.6.10",
     "vue-class-component": "^6.0.0",
     "vue-property-decorator": "^7.0.0",
